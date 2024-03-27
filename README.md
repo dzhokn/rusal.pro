@@ -1,1 +1,5 @@
-This is the private site for the Building Community living at Rusaliyski Prohod 10 (Sofia). The website is currently deployed at https://rusal.pro
+# Description
+This is the private web site for the Building Community living at Rusaliyski Prohod 10 (Sofia). 
+
+# Demo
+The website is currently deployed at https://rusal.pro
